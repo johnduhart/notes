@@ -1,0 +1,1 @@
+This is a repository of notes to myself, made public for ease of use.
