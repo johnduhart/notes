@@ -56,6 +56,8 @@ This is the $HOME\tools folder.
 * baretail
 * Crystal Disk Mark
 
+## Task Specific Loadouts
+
 ### Gaming
 * Steam
 * Origin
@@ -83,11 +85,6 @@ This is the $HOME\tools folder.
 * ReSharper Ultimate
 * ...
 
-#### Electrical Engineering
-* Altium Designer
-* Atmel Studio
-* Arduino IDE
-
 #### Web Development
 * NodeJS (LTS?)
 * Global NPM packages:
@@ -95,3 +92,8 @@ This is the $HOME\tools folder.
   * gulp
   * ...
 * HeidiSQL
+
+### Electrical Engineering
+* Altium Designer
+* Atmel Studio
+* Arduino IDE
