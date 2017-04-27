@@ -2,7 +2,7 @@
 
 ![View of My Computer](http://i.jhd5.net/2017/04/2017-04-26_20-13-32.png)
 
-My storage situation on my desktop is stupid. My main C: drive is too small, and my compter can't boot off NVMe. Since buying another SATA SSD is essentially throwing away money, I've done a few things to make this work.
+The storage situation on my desktop is stupid. The main C: drive is too small, but my compter can't boot off NVMe. Since buying another SATA SSD is a waste of money, I've restored to a few tricks in order to make this work.
 
 It's still fucking ugly though.
 
