@@ -35,6 +35,14 @@ These are the things that I install on all of my Computers
 * Yubico Authenticator
 * 7-zip
 * RoyalTS
+* f.lux
+* Link Shell Extension
+* WinDirStat
+
+### Utility
+* MalwareBytes Anti-Malware
+* BitDefender
+* Acronis True Image 2016
 
 ### Portable Tools
 This is the $HOME\tools folder.
@@ -46,6 +54,15 @@ This is the $HOME\tools folder.
 * NuGet command line (add to bin)
 * PerfView
 * baretail
+* Crystal Disk Mark
+
+### Gaming
+* Steam
+* Origin
+* Battle.net
+* uPlay
+* Epic Games Launcher
+* Discord
 
 ### Development
 * Visual Studio Code
@@ -56,6 +73,8 @@ This is the $HOME\tools folder.
 * posh-git
 * Windows SDK
 * WinDBG
+* BeyondCompare (Have License)
+* NuGet Package Explorer
 * Go
   * TODO: GOPATH setup
 * JDK (need some more notes)
@@ -75,3 +94,4 @@ This is the $HOME\tools folder.
   * http-server
   * gulp
   * ...
+* HeidiSQL
